@@ -3,6 +3,7 @@
 ---
 
 ## Overview
+
 Physics-Informed Neural Networks (PINNs) combine neural networks with the governing physics of a system by embedding PDE residuals into the training objective.  
 
 A key challenge in **inverse PDE problems** is that the data-driven loss converges much faster than the physics-informed loss, leading to poor parameter recovery.  
